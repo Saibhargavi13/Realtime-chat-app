@@ -1,0 +1,2 @@
+# Realtime-chat-app
+The Realtime Chat Application is a secure, cloud-based messaging platform developed using Python and Flask, with MySQL as the backend database, and deployed on Google Cloud Platform (GCP). It enables real-time communication between users with a focus on scalability, performance, and data security.
